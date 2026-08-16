@@ -15,7 +15,7 @@ spec:
     spec:
       containers:
         - name: react-app
-          image: 427064007409.dkr.ecr.eu-central-1.amazonaws.com/devops-project-cluster-react-app:latest
+          image: 427064007409.dkr.ecr.eu-central-1.amazonaws.com/devops-project-cluster-react-app:7562996
           ports:
             - containerPort: 80
           resources:
